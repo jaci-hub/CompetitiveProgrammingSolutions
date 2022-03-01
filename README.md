@@ -1,2 +1,2 @@
 # CompetitiveProgrammingSolutions
-These are my solutions of problems from HackerRank, LeetCode, etc
+These are my solutions for problems from HackerRank, LeetCode, etc
